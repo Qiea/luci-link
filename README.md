@@ -1,3 +1,3 @@
 # luci-link
 ### 这是一个书签，用于快捷打开某些luci应用
-![Uploading 屏幕截图_8-4-2024_1976_10.0.10.2.jpeg…]()
+![Image text]([https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png](https://github.com/Qiea/pictures/blob/main/luci-link.jpeg))
